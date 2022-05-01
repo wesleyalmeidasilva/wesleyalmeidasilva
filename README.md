@@ -13,7 +13,7 @@
   
 ###
 
-- 🌱 I’m currently learning CSS!
+- 🌱 I’m currently learning CSS and Pixel Art 🧙‍♂️! 
 - 🤔 I’m looking for help with front-end in general
 - 🕹️ I love programming like i love games
 
