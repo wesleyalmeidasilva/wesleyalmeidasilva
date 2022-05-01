@@ -19,5 +19,5 @@
 
 <div> 
   <a href="https://www.instagram.com/sr.nkens/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/204103228269264896/970122962470576138/Sprite-0001.gif">
+  <img align="left" alt="bruxagif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/204103228269264896/970122962470576138/Sprite-0001.gif">
 </div>
