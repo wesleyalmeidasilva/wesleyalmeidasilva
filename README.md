@@ -1,4 +1,4 @@
-### Welcome to my profile!
+### <h1 align="center">Welcome to my profile!</h1>
 
 <div>
   <img align="left" alt="bruxagif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/204103228269264896/970122962470576138/Sprite-0001.gif">
