@@ -3,7 +3,7 @@
 <div>
   <img align="left" alt="bruxagif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/204103228269264896/970122962470576138/Sprite-0001.gif">
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/wesleyalmeidasilva">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=wesleyalmeidasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
