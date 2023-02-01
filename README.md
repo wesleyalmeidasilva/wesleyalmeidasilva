@@ -14,8 +14,7 @@
   
 ###
 
-- 🌱 I’m currently learning CSS and Pixel Art 🧙‍♂️! 
-- 🤔 I’m looking for help with front-end in general
+- 🌱 I’m currently learning Node and Back-End Development 🧙‍♂️! 
 - 🕹️ I love programming like i love games
 
 <div> 
